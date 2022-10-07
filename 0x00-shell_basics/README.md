@@ -1,1 +1,1 @@
-print working directory 
+This folder contains shell basic commands
